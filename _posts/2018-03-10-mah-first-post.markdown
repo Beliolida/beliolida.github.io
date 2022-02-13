@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hello Lida"
-date: 2022-03-10 15:13:18 +0200
+date: 2018-03-10 15:13:18 +0200
 image: 12.jpg
 tags: [jekyll, docs, лида]
 categories: jekyll
