@@ -4,7 +4,7 @@ title: "тут титул"
 date: 2022-03-10 15:13:18 +0200
 image: 12.jpg
 tags: [jekyll, docs, лида]
-categories: учимся
+categories: jekyll
 ---
 
 # PRIVET
